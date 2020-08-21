@@ -1,0 +1,650 @@
+ At iteration: 0 || Error: 33761.930  
+Optimise B 
+ At final B iteration || Error: 33666.145 
+Optimise C 
+43.6920950413 seconds
+ Step C || Error: 33666.098
+Optimise Theta
+Epoch: 0, loss: 1457.502
+Epoch: 20, loss: 93.211
+Epoch: 40, loss: 92.799
+ Step Theta || Error: 21241.135 
+18.773884058 seconds
+ Step D,lamb || Error: 20139.441 
+ At iteration: 1 || Error: 20139.441  
+Optimise B 
+ At final B iteration || Error: 19769.990 
+Optimise C 
+44.8908319473 seconds
+ Step C || Error: 19768.525
+Optimise Theta
+Epoch: 0, loss: 92.374
+Epoch: 20, loss: 87.086
+Epoch: 40, loss: 80.861
+ Step Theta || Error: 19639.273 
+20.4806380272 seconds
+ Step D,lamb || Error: 19325.535 
+ At iteration: 2 || Error: 19325.535  
+Optimise B 
+ At final B iteration || Error: 19059.555 
+Optimise C 
+43.4976139069 seconds
+ Step C || Error: 19037.135
+Optimise Theta
+Epoch: 0, loss: 76.050
+Epoch: 20, loss: 71.907
+Epoch: 40, loss: 68.116
+ Step Theta || Error: 18984.451 
+19.7743618488 seconds
+ Step D,lamb || Error: 18753.984 
+ At iteration: 3 || Error: 18753.984  
+Optimise B 
+ At final B iteration || Error: 18563.039 
+Optimise C 
+46.1264419556 seconds
+ Step C || Error: 18523.271
+Optimise Theta
+Epoch: 0, loss: 67.131
+Epoch: 20, loss: 64.985
+Epoch: 40, loss: 61.314
+ Step Theta || Error: 18485.352 
+20.1688389778 seconds
+ Step D,lamb || Error: 18315.307 
+ At iteration: 4 || Error: 18315.307  
+Optimise B 
+ At final B iteration || Error: 18176.137 
+Optimise C 
+44.1451420784 seconds
+ Step C || Error: 18133.506
+Optimise Theta
+Epoch: 0, loss: 61.131
+Epoch: 20, loss: 50.654
+Epoch: 40, loss: 40.900
+ Step Theta || Error: 17927.092 
+19.7558720112 seconds
+ Step D,lamb || Error: 17797.193 
+ At iteration: 5 || Error: 17797.193  
+Optimise B 
+ At final B iteration || Error: 17693.371 
+Optimise C 
+44.9177620411 seconds
+ Step C || Error: 17670.367
+Optimise Theta
+Epoch: 0, loss: 36.426
+Epoch: 20, loss: 25.272
+Epoch: 40, loss: 16.538
+ Step Theta || Error: 17473.773 
+20.7572939396 seconds
+ Step D,lamb || Error: 17372.570 
+ At iteration: 6 || Error: 17372.570  
+Optimise B 
+ At final B iteration || Error: 17293.197 
+Optimise C 
+45.1948971748 seconds
+ Step C || Error: 17268.547
+Optimise Theta
+Epoch: 0, loss: 13.147
+Epoch: 20, loss: 7.974
+Epoch: 40, loss: 5.053
+ Step Theta || Error: 17197.910 
+20.7603039742 seconds
+ Step D,lamb || Error: 17117.180 
+ At iteration: 7 || Error: 17117.180  
+Optimise B 
+ At final B iteration || Error: 17055.051 
+Optimise C 
+43.9089770317 seconds
+ Step C || Error: 17027.928
+Optimise Theta
+Epoch: 0, loss: 5.072
+Epoch: 20, loss: 2.266
+Epoch: 40, loss: 1.437
+ Step Theta || Error: 17012.176 
+20.6987991333 seconds
+ Step D,lamb || Error: 16946.232 
+ At iteration: 8 || Error: 16946.232  
+Optimise B 
+ At final B iteration || Error: 16896.582 
+Optimise C 
+44.1871597767 seconds
+ Step C || Error: 16875.971
+Optimise Theta
+Epoch: 0, loss: 2.040
+Epoch: 20, loss: 1.602
+Epoch: 40, loss: 0.551
+ Step Theta || Error: 16873.037 
+20.2974610329 seconds
+ Step D,lamb || Error: 16818.924 
+ At iteration: 9 || Error: 16818.924  
+Optimise B 
+ At final B iteration || Error: 16778.594 
+Optimise C 
+44.3528409004 seconds
+ Step C || Error: 16759.555
+Optimise Theta
+Epoch: 0, loss: 1.221
+Epoch: 20, loss: 0.125
+Epoch: 40, loss: 0.117
+ Step Theta || Error: 16761.342 
+20.4081349373 seconds
+ Step D,lamb || Error: 16716.246 
+ At iteration: 10 || Error: 16716.246  
+Optimise B 
+ At final B iteration || Error: 16683.055 
+Optimise C 
+44.1088531017 seconds
+ Step C || Error: 16664.184
+Optimise Theta
+Epoch: 0, loss: 0.683
+Epoch: 20, loss: 0.316
+Epoch: 40, loss: 0.242
+ Step Theta || Error: 16682.326 
+19.7596092224 seconds
+ Step D,lamb || Error: 16644.732 
+ At iteration: 11 || Error: 16644.732  
+Optimise B 
+ At final B iteration || Error: 16617.133 
+Optimise C 
+43.8152658939 seconds
+ Step C || Error: 16590.461
+Optimise Theta
+Epoch: 0, loss: 0.893
+Epoch: 20, loss: 3.138
+Epoch: 40, loss: 0.030
+ Step Theta || Error: 16583.572 
+20.077944994 seconds
+ Step D,lamb || Error: 16551.244 
+ At iteration: 12 || Error: 16551.244  
+Optimise B 
+ At final B iteration || Error: 16528.094 
+Optimise C 
+44.4843420982 seconds
+ Step C || Error: 16513.459
+Optimise Theta
+Epoch: 0, loss: 0.620
+Epoch: 20, loss: 0.300
+Epoch: 40, loss: 0.118
+ Step Theta || Error: 16516.309 
+20.0406229496 seconds
+ Step D,lamb || Error: 16490.086 
+ At iteration: 13 || Error: 16490.086  
+Optimise B 
+ At final B iteration || Error: 16470.523 
+Optimise C 
+44.3199148178 seconds
+ Step C || Error: 16456.082
+Optimise Theta
+Epoch: 0, loss: 0.846
+Epoch: 20, loss: 0.155
+Epoch: 40, loss: 0.456
+ Step Theta || Error: 16461.088 
+20.7506361008 seconds
+ Step D,lamb || Error: 16439.074 
+ At iteration: 14 || Error: 16439.074  
+Optimise B 
+ At final B iteration || Error: 16422.432 
+Optimise C 
+43.4059071541 seconds
+ Step C || Error: 16407.891
+Optimise Theta
+Epoch: 0, loss: 0.543
+Epoch: 20, loss: 0.701
+Epoch: 40, loss: 0.037
+ Step Theta || Error: 16404.148 
+20.2515511513 seconds
+ Step D,lamb || Error: 16385.562 
+ At iteration: 15 || Error: 16385.562  
+Optimise B 
+ At final B iteration || Error: 16371.310 
+Optimise C 
+44.4078578949 seconds
+ Step C || Error: 16360.607
+Optimise Theta
+Epoch: 0, loss: 0.656
+Epoch: 20, loss: 0.380
+Epoch: 40, loss: 0.107
+ Step Theta || Error: 16360.534 
+20.271381855 seconds
+ Step D,lamb || Error: 16345.517 
+ At iteration: 16 || Error: 16345.517  
+Optimise B 
+ At final B iteration || Error: 16333.230 
+Optimise C 
+44.1248369217 seconds
+ Step C || Error: 16323.482
+Optimise Theta
+Epoch: 0, loss: 0.448
+Epoch: 20, loss: 0.359
+Epoch: 40, loss: 0.174
+ Step Theta || Error: 16323.514 
+20.4823811054 seconds
+ Step D,lamb || Error: 16311.165 
+ At iteration: 17 || Error: 16311.165  
+Optimise B 
+ At final B iteration || Error: 16300.513 
+Optimise C 
+43.4663960934 seconds
+ Step C || Error: 16291.686
+Optimise Theta
+Epoch: 0, loss: 0.328
+Epoch: 20, loss: 0.329
+Epoch: 40, loss: 0.161
+ Step Theta || Error: 16292.607 
+19.6757149696 seconds
+ Step D,lamb || Error: 16282.506 
+ At iteration: 18 || Error: 16282.506  
+Optimise B 
+ At final B iteration || Error: 16273.235 
+Optimise C 
+44.546298027 seconds
+ Step C || Error: 16265.077
+Optimise Theta
+Epoch: 0, loss: 0.236
+Epoch: 20, loss: 0.466
+Epoch: 40, loss: 0.277
+ Step Theta || Error: 16267.450 
+20.1640250683 seconds
+ Step D,lamb || Error: 16259.311 
+ At iteration: 19 || Error: 16259.311  
+Optimise B 
+ At final B iteration || Error: 16251.163 
+Optimise C 
+44.5684440136 seconds
+ Step C || Error: 16243.333
+Optimise Theta
+Epoch: 0, loss: 1.079
+Epoch: 20, loss: 0.628
+Epoch: 40, loss: 0.094
+ Step Theta || Error: 16249.285 
+20.4783909321 seconds
+ Step D,lamb || Error: 16242.727 
+ At iteration: 20 || Error: 16242.727  
+Optimise B 
+ At final B iteration || Error: 16235.533 
+Optimise C 
+44.291836977 seconds
+ Step C || Error: 16227.018
+Optimise Theta
+Epoch: 0, loss: 0.155
+Epoch: 20, loss: 0.083
+Epoch: 40, loss: 0.149
+ Step Theta || Error: 16222.669 
+20.7611310482 seconds
+ Step D,lamb || Error: 16217.379 
+ At iteration: 21 || Error: 16217.379  
+Optimise B 
+ At final B iteration || Error: 16210.979 
+Optimise C 
+43.7949419022 seconds
+ Step C || Error: 16205.067
+Optimise Theta
+Epoch: 0, loss: 0.080
+Epoch: 20, loss: 0.103
+Epoch: 40, loss: 0.032
+ Step Theta || Error: 16206.206 
+20.9640529156 seconds
+ Step D,lamb || Error: 16202.409 
+ At iteration: 22 || Error: 16202.409  
+Optimise B 
+ At final B iteration || Error: 16196.709 
+Optimise C 
+43.7566680908 seconds
+ Step C || Error: 16191.255
+Optimise Theta
+Epoch: 0, loss: 0.068
+Epoch: 20, loss: 0.210
+Epoch: 40, loss: 0.023
+ Step Theta || Error: 16189.699 
+20.4785139561 seconds
+ Step D,lamb || Error: 16186.926 
+ At iteration: 23 || Error: 16186.926  
+Optimise B 
+ At final B iteration || Error: 16181.812 
+Optimise C 
+43.5096039772 seconds
+ Step C || Error: 16177.192
+Optimise Theta
+Epoch: 0, loss: 0.038
+Epoch: 20, loss: 0.194
+Epoch: 40, loss: 0.060
+ Step Theta || Error: 16179.619 
+20.1600558758 seconds
+ Step D,lamb || Error: 16177.773 
+ At iteration: 24 || Error: 16177.773  
+Optimise B 
+ At final B iteration || Error: 16173.161 
+Optimise C 
+44.8215680122 seconds
+ Step C || Error: 16168.283
+Optimise Theta
+Epoch: 0, loss: 0.053
+Epoch: 20, loss: 0.121
+Epoch: 40, loss: 0.052
+ Step Theta || Error: 16167.230 
+20.8820569515 seconds
+ Step D,lamb || Error: 16166.017 
+ At iteration: 25 || Error: 16166.017  
+Optimise B 
+ At final B iteration || Error: 16161.845 
+Optimise C 
+44.149597168 seconds
+ Step C || Error: 16157.952
+Optimise Theta
+Epoch: 0, loss: 0.066
+Epoch: 20, loss: 0.051
+Epoch: 40, loss: 0.091
+ Step Theta || Error: 16157.788 
+20.2411088943 seconds
+ Step D,lamb || Error: 16157.361 
+ At iteration: 26 || Error: 16157.361  
+Optimise B 
+ At final B iteration || Error: 16153.563 
+Optimise C 
+44.34029603 seconds
+ Step C || Error: 16150.152
+Optimise Theta
+Epoch: 0, loss: 0.058
+Epoch: 20, loss: 0.103
+Epoch: 40, loss: 0.037
+ Step Theta || Error: 16151.344 
+20.5609099865 seconds
+ Step D,lamb || Error: 16151.495 
+ At iteration: 27 || Error: 16151.495  
+Optimise B 
+ At final B iteration || Error: 16148.023 
+Optimise C 
+44.1952240467 seconds
+ Step C || Error: 16144.914
+Optimise Theta
+Epoch: 0, loss: 0.070
+Epoch: 20, loss: 0.167
+Epoch: 40, loss: 0.021
+ Step Theta || Error: 16144.177 
+19.9697501659 seconds
+ Step D,lamb || Error: 16144.806 
+ At iteration: 28 || Error: 16144.806  
+Optimise B 
+ At final B iteration || Error: 16141.635 
+Optimise C 
+43.3043539524 seconds
+ Step C || Error: 16138.953
+Optimise Theta
+Epoch: 0, loss: 0.054
+Epoch: 20, loss: 0.154
+Epoch: 40, loss: 0.028
+ Step Theta || Error: 16138.868 
+20.0839550495 seconds
+ Step D,lamb || Error: 16139.939 
+ At iteration: 29 || Error: 16139.939  
+Optimise B 
+ At final B iteration || Error: 16137.002 
+Optimise C 
+44.2166249752 seconds
+ Step C || Error: 16134.604
+Optimise Theta
+Epoch: 0, loss: 0.068
+Epoch: 20, loss: 0.031
+Epoch: 40, loss: 0.128
+ Step Theta || Error: 16134.831 
+20.6671719551 seconds
+ Step D,lamb || Error: 16136.278 
+ At iteration: 30 || Error: 16136.278  
+Optimise B 
+ At final B iteration || Error: 16133.572 
+Optimise C 
+43.5064470768 seconds
+ Step C || Error: 16131.348
+Optimise Theta
+Epoch: 0, loss: 0.070
+Epoch: 20, loss: 0.035
+Epoch: 40, loss: 0.015
+ Step Theta || Error: 16130.893 
+19.9940769672 seconds
+ Step D,lamb || Error: 16132.654 
+ At iteration: 31 || Error: 16132.654  
+Optimise B 
+ At final B iteration || Error: 16130.138 
+Optimise C 
+44.5161008835 seconds
+ Step C || Error: 16128.211
+Optimise Theta
+Epoch: 0, loss: 0.042
+Epoch: 20, loss: 0.079
+Epoch: 40, loss: 0.008
+ Step Theta || Error: 16128.256 
+20.3796610832 seconds
+ Step D,lamb || Error: 16130.300 
+ At iteration: 32 || Error: 16130.300  
+Optimise B 
+ At final B iteration || Error: 16127.948 
+Optimise C 
+43.9883360863 seconds
+ Step C || Error: 16126.186
+Optimise Theta
+Epoch: 0, loss: 0.048
+Epoch: 20, loss: 0.025
+Epoch: 40, loss: 0.075
+ Step Theta || Error: 16127.374 
+20.5884518623 seconds
+ Step D,lamb || Error: 16129.663 
+ At iteration: 33 || Error: 16129.663  
+Optimise B 
+ At final B iteration || Error: 16127.472 
+Optimise C 
+44.0647821426 seconds
+ Step C || Error: 16125.705
+Optimise Theta
+Epoch: 0, loss: 0.046
+Epoch: 20, loss: 0.278
+Epoch: 40, loss: 0.004
+ Step Theta || Error: 16124.631 
+20.1540119648 seconds
+ Step D,lamb || Error: 16127.086 
+ At iteration: 34 || Error: 16127.086  
+Optimise B 
+ At final B iteration || Error: 16125.049 
+Optimise C 
+45.839851141 seconds
+ Step C || Error: 16123.613
+Optimise Theta
+Epoch: 0, loss: 0.049
+Epoch: 20, loss: 0.022
+Epoch: 40, loss: 0.092
+ Step Theta || Error: 16123.797 
+21.8136570454 seconds
+ Step D,lamb || Error: 16126.439 
+ At iteration: 35 || Error: 16126.439  
+Optimise B 
+ At final B iteration || Error: 16124.526 
+Optimise C 
+44.7399790287 seconds
+ Step C || Error: 16123.171
+Optimise Theta
+Epoch: 0, loss: 0.047
+Epoch: 20, loss: 0.560
+Epoch: 40, loss: 0.017
+ Step Theta || Error: 16123.037 
+20.9065740108 seconds
+ Step D,lamb || Error: 16125.842 
+ At iteration: 36 || Error: 16125.842  
+Optimise B 
+ At final B iteration || Error: 16124.022 
+Optimise C 
+44.9105930328 seconds
+ Step C || Error: 16122.832
+Optimise Theta
+Epoch: 0, loss: 0.055
+Epoch: 20, loss: 0.095
+Epoch: 40, loss: 0.078
+ Step Theta || Error: 16123.071 
+21.644464016 seconds
+ Step D,lamb || Error: 16126.006 
+ At iteration: 37 || Error: 16126.006  
+Optimise B 
+ At final B iteration || Error: 16124.311 
+Optimise C 
+46.4113991261 seconds
+ Step C || Error: 16123.176
+Optimise Theta
+Epoch: 0, loss: 0.038
+Epoch: 20, loss: 0.046
+Epoch: 40, loss: 0.002
+ Step Theta || Error: 16122.898 
+24.5516970158 seconds
+ Step D,lamb || Error: 16125.928 
+ At iteration: 38 || Error: 16125.928  
+Optimise B 
+ At final B iteration || Error: 16124.332 
+Optimise C 
+52.7845599651 seconds
+ Step C || Error: 16123.329
+Optimise Theta
+Epoch: 0, loss: 0.042
+Epoch: 20, loss: 0.010
+Epoch: 40, loss: 0.210
+ Step Theta || Error: 16125.002 
+25.264742136 seconds
+ Step D,lamb || Error: 16128.129 
+ At iteration: 39 || Error: 16128.129  
+Optimise B 
+ At final B iteration || Error: 16126.626 
+Optimise C 
+53.2735741138 seconds
+ Step C || Error: 16125.461
+Optimise Theta
+Epoch: 0, loss: 0.083
+Epoch: 20, loss: 0.043
+Epoch: 40, loss: 0.007
+ Step Theta || Error: 16124.410 
+21.6722509861 seconds
+ Step D,lamb || Error: 16127.570 
+ At iteration: 40 || Error: 16127.570  
+Optimise B 
+ At final B iteration || Error: 16126.145 
+Optimise C 
+49.6351969242 seconds
+ Step C || Error: 16125.229
+Optimise Theta
+Epoch: 0, loss: 0.035
+Epoch: 20, loss: 0.187
+Epoch: 40, loss: 0.002
+ Step Theta || Error: 16124.925 
+24.1969761848 seconds
+ Step D,lamb || Error: 16128.179 
+ At iteration: 41 || Error: 16128.179  
+Optimise B 
+ At final B iteration || Error: 16126.826 
+Optimise C 
+47.8733539581 seconds
+ Step C || Error: 16126.035
+Optimise Theta
+Epoch: 0, loss: 0.041
+Epoch: 20, loss: 0.003
+Epoch: 40, loss: 0.128
+ Step Theta || Error: 16126.177 
+23.7487812042 seconds
+ Step D,lamb || Error: 16129.515 
+ At iteration: 42 || Error: 16129.515  
+Optimise B 
+ At final B iteration || Error: 16128.225 
+Optimise C 
+46.1959779263 seconds
+ Step C || Error: 16127.464
+Optimise Theta
+Epoch: 0, loss: 0.044
+Epoch: 20, loss: 0.907
+Epoch: 40, loss: 0.002
+ Step Theta || Error: 16127.335 
+22.0966808796 seconds
+ Step D,lamb || Error: 16130.709 
+ At iteration: 43 || Error: 16130.709  
+Optimise B 
+ At final B iteration || Error: 16129.480 
+Optimise C 
+49.0732350349 seconds
+ Step C || Error: 16128.790
+Optimise Theta
+Epoch: 0, loss: 0.036
+Epoch: 20, loss: 0.042
+Epoch: 40, loss: 0.050
+ Step Theta || Error: 16131.612 
+21.2962880135 seconds
+ Step D,lamb || Error: 16135.045 
+ At iteration: 44 || Error: 16135.045  
+Optimise B 
+ At final B iteration || Error: 16133.866 
+Optimise C 
+46.9094779491 seconds
+ Step C || Error: 16132.749
+Optimise Theta
+Epoch: 0, loss: 0.104
+Epoch: 20, loss: 0.226
+Epoch: 40, loss: 0.008
+ Step Theta || Error: 16130.620 
+21.6156330109 seconds
+ Step D,lamb || Error: 16133.959 
+ At iteration: 45 || Error: 16133.959  
+Optimise B 
+ At final B iteration || Error: 16132.836 
+Optimise C 
+44.3663160801 seconds
+ Step C || Error: 16132.229
+Optimise Theta
+Epoch: 0, loss: 0.042
+Epoch: 20, loss: 0.110
+Epoch: 40, loss: 0.068
+ Step Theta || Error: 16132.887 
+21.0430929661 seconds
+ Step D,lamb || Error: 16136.379 
+ At iteration: 46 || Error: 16136.379  
+Optimise B 
+ At final B iteration || Error: 16135.312 
+Optimise C 
+44.0420041084 seconds
+ Step C || Error: 16134.650
+Optimise Theta
+Epoch: 0, loss: 0.053
+Epoch: 20, loss: 0.115
+Epoch: 40, loss: 0.016
+ Step Theta || Error: 16134.302 
+20.8651080132 seconds
+ Step D,lamb || Error: 16137.752 
+ At iteration: 47 || Error: 16137.752  
+Optimise B 
+ At final B iteration || Error: 16136.729 
+Optimise C 
+43.926885128 seconds
+ Step C || Error: 16136.148
+Optimise Theta
+Epoch: 0, loss: 0.026
+Epoch: 20, loss: 0.125
+Epoch: 40, loss: 0.003
+ Step Theta || Error: 16135.932 
+19.9701590538 seconds
+ Step D,lamb || Error: 16139.411 
+ At iteration: 48 || Error: 16139.411  
+Optimise B 
+ At final B iteration || Error: 16138.454 
+Optimise C 
+43.5719430447 seconds
+ Step C || Error: 16137.956
+Optimise Theta
+Epoch: 0, loss: 0.041
+Epoch: 20, loss: 0.008
+Epoch: 40, loss: 0.001
+ Step Theta || Error: 16137.935 
+15.0725140572 seconds
+ Step D,lamb || Error: 16141.443 
+ At iteration: 49 || Error: 16141.443  
+Optimise B 
+ At final B iteration || Error: 16140.510 
+Optimise C 
+21.9816608429 seconds
+ Step C || Error: 16140.054
+Optimise Theta
+Epoch: 0, loss: 0.035
+Epoch: 20, loss: 0.010
+Epoch: 40, loss: 0.115
+ Step Theta || Error: 16140.796 
+15.0474760532 seconds
+ Step D,lamb || Error: 16144.327 
