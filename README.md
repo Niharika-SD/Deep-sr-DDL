@@ -1,5 +1,5 @@
 ## Code for Deep sr-DDL model introduced in https://arxiv.org/abs/2007.01931
-
+![sr-DDL](https://drive.google.com/file/d/1g2Jd-VW-8n_qbyX5ldu-w5Q8W8FKh_Ac/view?usp=sharing)
 
 #INSTRUCTIONS
 
@@ -23,32 +23,30 @@ Main directory contents:
   
 Extract_Meta_Data.m 
 
-  /KKI
-    /Train  
-      subject_XX.mat
-    /Test
-      subject_YY.mat
-    /Outputs
-      Loss.png #Loss curve
-      B_gd.png #Basis
-      Performance.mat #regression performance
-      deep_sr-DDL.p #saved models
-      logfile.txt
-      
-      
-    init.mat #pre-computed initalization for basis
+ * /KKI
+ **     init.mat #pre-computed initalization for basis
+ **   /Train  
+ ***     subject_XX.mat
+ *   /Test
+ **    subject_YY.mat
+ *   /Outputs
+ **     Loss.png #Loss curve
+ **     B_gd.png #Basis
+ **     Performance.mat #regression performance
+ **     deep_sr-DDL.p #saved models
+ **     logfile.txt
+ 
+ * /HCP
+ ** init.mat #pre-computed initalization for basis
+ **   /Train  
+ ***     subject_XX.mat
+ *   /Test
+ **     subject_YY.mat
+ *   /Outputs
+ **     Loss.png #Loss curve
+ **     B_gd.png #Basis
+ **     Performance.mat #regression performance
+ **     deep_sr-DDL.p #saved models
+ **     logfile.txt
 
-  /HCP
-    /Train  
-      subject_XX.mat
-    /Test
-      subject_YY.mat
-    /Outputs
-      Loss.png #Loss curve
-      B_gd.png #Basis
-      Performance.mat #regression performance
-      deep_sr-DDL.p #saved models
-      logfile.txt
-
-    init.mat #pre-computed initalization for basis
-
+   
