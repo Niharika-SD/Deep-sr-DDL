@@ -21,32 +21,31 @@ Main directory contents:
 
 ~/Data/ contents
   
-Extract_Meta_Data.m 
+~/Data/Extract_Meta_Data.m 
 
-  KKI/
-    init.mat #pre-computed initalization for basis
-    Train/  
-      subject_XX.mat
-    Test/
-      subject_YY.mat
-    Outputs/
-      Loss.png #Loss curve
-      B_gd.png #Basis
-      Performance.mat #regression performance
-      deep_sr-DDL.p #saved models
-      logfile.txt
+  ~/Data/KKI/
+  ~/Data/KKI/init.mat #pre-computed initalization for basis
+  ~/Data/KKI/Train/  
+  ~/Data/KKI/Train/subject_XX.mat
+  ~/Data/KKI/Test/
+  ~/Data/KKI/Test/subject_YY.mat
+  ~/Data/KKI/Outputs/
+  ~/Data/KKI/Outputs/Loss.png #Loss curve
+  ~/Data/KKI/Outputs/B_gd.png #Basis
+  ~/Data/KKI/Outputs/Performance.mat #regression performance
+  ~/Data/KKI/Outputs/deep_sr-DDL.p #saved models
+  ~/Data/KKI/Outputs/logfile.txt
  
-  HCP/
-    init.mat #pre-computed initalization for basis
-    Train/  
-      subject_XX.mat
-    Test/
-      subject_YY.mat
-    Outputs/
-      Loss.png #Loss curve
-      B_gd.png #Basis
-      Performance.mat #regression performance
-      deep_sr-DDL.p #saved models
-      logfile.txt
+   ~/Data/HCP/init.mat #pre-computed initalization for basis
+   ~/Data/HCP/Train/  
+   ~/Data/HCP/Train/subject_XX.mat
+   ~/Data/HCP/Test/
+   ~/Data/HCP/Test/subject_YY.mat
+   ~/Data/HCP/Outputs/
+   ~/Data/HCP/Outputs/Loss.png #Loss curve
+   ~/Data/HCP/Outputs/B_gd.png #Basis
+   ~/Data/HCP/Outputs/Performance.mat #regression performance
+   ~/Data/HCP/Outputs/deep_sr-DDL.p #saved models
+   ~/Data/HCP/Outputs/logfile.txt
 
    
