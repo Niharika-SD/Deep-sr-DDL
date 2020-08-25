@@ -23,26 +23,26 @@ Main directory contents:
   
 Extract_Meta_Data.m 
 
-  /KKI
+  KKI/
     init.mat #pre-computed initalization for basis
-    /Train  
+    Train/  
       subject_XX.mat
-    /Test
+    Test/
       subject_YY.mat
-    /Outputs
+    Outputs/
       Loss.png #Loss curve
       B_gd.png #Basis
       Performance.mat #regression performance
       deep_sr-DDL.p #saved models
       logfile.txt
  
-  /HCP
+  HCP/
     init.mat #pre-computed initalization for basis
-    /Train  
+    Train/  
       subject_XX.mat
-    /Test
+    Test/
       subject_YY.mat
-    /Outputs
+    Outputs/
       Loss.png #Loss curve
       B_gd.png #Basis
       Performance.mat #regression performance
