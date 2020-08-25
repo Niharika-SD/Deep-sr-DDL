@@ -44,23 +44,11 @@ def alt_min_main(corr,L,B_init,C_init,model_init,D_init,lamb_init,Y,gamma,lambda
 
         # init err
         err_out[iter] = err_compute(corr,L,B_old,C_old,model_old,D_old,lamb_old,Y,gamma,lambda_1)        
-        print(" At iteration: %d || Error: %1.3f  "  %(iter, err_out[iter]) )
-        
-        if (iter <5):
+        print(" At iteration: %d || Error: %1.3f  "  %(iter, err_out[iter]) )    
             
-           epochs = 51
-           lr_nn = 0.0001
+        epochs = 51
+        lr_nn = 0.0001
          
-        elif (iter<20 and iter>=5):
-        
-           epochs = 51
-           lr_nn = 0.0001
-               
-           
-        else:
-        
-           epochs = 51
-           lr_nn = 0.00005
                
         # run one alternating min step      
         [B,C,model,D,lamb] = alt_min_step(corr,L,B_old,C_old,model_old,D_old,lamb_old,Y,gamma,lambda_1,epochs,lr_nn) 
