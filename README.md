@@ -1,5 +1,5 @@
 ## Code for Deep sr-DDL model introduced in https://arxiv.org/abs/2007.01931
-![sr-DDL]((https://github.com/Niharika-SD/Deep-sr-DDL/Images/LSTM-ANN_JP.png)
+![sr-DDL](/https://github.com/Niharika-SD/Deep-sr-DDL/tree/master/Images/LSTM-ANN_JP.png)
 
 #INSTRUCTIONS
 
