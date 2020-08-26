@@ -4,7 +4,7 @@
 #INSTRUCTIONS
 
 1. Run Extract_Meta_Data.m with appropriate arguments
-2. Open terminal, type Run main.py
+2. Open terminal, type: python main.py
 
 %%num_targets = 3 --> KKI
 %%num_targets = 1 --> HCP
